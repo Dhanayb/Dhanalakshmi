@@ -578,7 +578,7 @@ body::before {
 
 /* Timeline dot for mobile */
 @media (max-width: 768px) {
-    .experience-section .relative::before {
+/*     .experience-section .relative::before {
         content: "";
         position: absolute;
         left: 24px;
@@ -586,17 +586,17 @@ body::before {
         bottom: 0;
         width: 2px;
         background: rgba(255, 107, 71, 0.2);
-    }
+    } */
 
     .experience-section [class*="md:w-5/12"] {
         text-align: left !important;
-        padding-left: 50px !important;
+        padding-left: 20px !important;
         padding-right: 0 !important;
         width: 100% !important;
     }
 
     .experience-section [class*="bg-gray-800"] {
-        margin-left: 50px;
+        margin-left: 20px;
         width: calc(100% - 50px);
     }
 
