@@ -588,7 +588,7 @@ body::before {
         background: rgba(255, 107, 71, 0.2);
     } */
 
-    .experience-section [class*="md:w-5/12"] {
+    .experience-section  {
         text-align: left !important;
         padding-left: 20px !important;
         padding-right: 0 !important;
