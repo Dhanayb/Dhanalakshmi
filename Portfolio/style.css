@@ -135,7 +135,7 @@ body::before {
 
 /* Hero Section */
 .hero {
-    padding: 120px 0;
+    padding: 60px 0;
     text-align: center;
     position: relative;
     background: url(images/about-bg-img.png) center/cover no-repeat;
