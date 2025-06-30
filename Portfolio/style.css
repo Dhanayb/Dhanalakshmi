@@ -609,7 +609,7 @@ body::before {
         display: none;
     }
 
-    .experience-section  [class*="md:w-5/12"]::before {
+    .experience-header::before {
         content: "";
         position: absolute;
         left: 16px;
